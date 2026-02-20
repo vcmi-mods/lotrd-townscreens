@@ -1,0 +1,26 @@
+{
+	"name" : "Improved towns screens",
+	"description" : "Townscreens ported from Legends of the Red Dragon",
+	"author" : "itsjustme",
+	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Graphical",
+	"version" : "1.2",
+	"changelog" : {
+		"1.2" : [
+			"Converted BMPs to PNGs"
+		],
+		"1.1" : [
+			"Configured depencies and conflicts",
+			"Added Czech translation"
+		],
+		"1.0" : [
+			"Initial release"
+		]
+	},
+	"czech" : {
+		"name" : "Vylepšené vzhledy měst",
+		"description" : "Nové vylepšené vzhledy měst z modifikace Legends of the Red Dragon"
+	}
+}
