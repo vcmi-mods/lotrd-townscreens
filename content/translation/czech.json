@@ -1,0 +1,22 @@
+{
+	"mod.name": "Vylepšené vzhledy měst",
+	"mod.description": "Nové vylepšené vzhledy měst z modifikace Legends of the Red Dragon",
+	"mod.castle.name": "Hrad",
+	"mod.castle.description": "Vylepšený vzhled Hradu z Legends of the Red Dragon",
+	"mod.conflux.name": "Soutok",
+	"mod.conflux.description": "Vylepšený vzhled Soutoku z Legends of the Red Dragon",
+	"mod.dungeon.name": "Kobka",
+	"mod.dungeon.description": "Vylepšený vzhled Kobky z Legends of the Red Dragon",
+	"mod.fortress.name": "Pevnost",
+	"mod.fortress.description": "Vylepšený vzhled Pevnosti z Legends of the Red Dragon",
+	"mod.inferno.name": "Peklo",
+	"mod.inferno.description": "Vylepšený vzhled Pekla z Legends of the Red Dragon",
+	"mod.necropolis.name": "Nekropole",
+	"mod.necropolis.description": "Vylepšený vzhled Nekropole z Legends of the Red Dragon",
+	"mod.rampart.name": "Bašta",
+	"mod.rampart.description": "Vylepšený vzhled Bašty z Legends of the Red Dragon",
+	"mod.stronghold.name": "Tvrz",
+	"mod.stronghold.description": "Vylepšený vzhled Tvrze z Legends of the Red Dragon",
+	"mod.tower.name": "Věž",
+	"mod.tower.description": "Vylepšený vzhled Věže z Legends of the Red Dragon"
+}

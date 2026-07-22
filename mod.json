@@ -21,6 +21,9 @@
 	},
 	"czech" : {
 		"name" : "Vylepšené vzhledy měst",
-		"description" : "Nové vylepšené vzhledy měst z modifikace Legends of the Red Dragon"
+		"description" : "Nové vylepšené vzhledy měst z modifikace Legends of the Red Dragon",
+		"translations" : [
+			"translation/czech.json"
+		]
 	}
 }

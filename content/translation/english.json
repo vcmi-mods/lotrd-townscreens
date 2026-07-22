@@ -1,0 +1,22 @@
+{
+	"mod.name" : "Improved towns screens",
+	"mod.description" : "Townscreens ported from Legends of the Red Dragon",
+	"mod.castle.name" : "Castle",
+	"mod.castle.description" : "Improved Castle town screen ported from Legends of the Red Dragon",
+	"mod.conflux.name" : "Conflux",
+	"mod.conflux.description" : "Improved Conflux town screen ported from Legends of the Red Dragon",
+	"mod.dungeon.name" : "Dungeon",
+	"mod.dungeon.description" : "Improved Dungeon town screen ported from Legends of the Red Dragon",
+	"mod.fortress.name" : "Fortress",
+	"mod.fortress.description" : "Improved Fortress town screen ported from Legends of the Red Dragon",
+	"mod.inferno.name" : "Inferno",
+	"mod.inferno.description" : "Improved Inferno town screen ported from Legends of the Red Dragon",
+	"mod.necropolis.name" : "Necropolis",
+	"mod.necropolis.description" : "Improved Necropolis town screen ported from Legends of the Red Dragon",
+	"mod.rampart.name" : "Rampart",
+	"mod.rampart.description" : "Improved Rampart town screen ported from Legends of the Red Dragon",
+	"mod.stronghold.name" : "Stronghold",
+	"mod.stronghold.description" : "Improved Stronghold town screen ported from Legends of the Red Dragon",
+	"mod.tower.name" : "Tower",
+	"mod.tower.description" : "Improved Tower town screen ported from Legends of the Red Dragon"
+}
