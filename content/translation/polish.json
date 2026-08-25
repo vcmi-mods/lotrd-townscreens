@@ -1,1 +1,22 @@
-{}
+{
+    "mod.name": "Ulepszone ekrany miast",
+    "mod.description": "Ekrany miast przeniesione z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.castle.name": "Zamek",
+    "mod.castle.description": "Ekran Zamku przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.conflux.name": "Wrota żywiołów",
+    "mod.conflux.description": "Ekran Wrót żywiołów przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.dungeon.name": "Lochy",
+    "mod.dungeon.description": "Ekran Lochów przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.fortress.name": "Cytadela",
+    "mod.fortress.description": "Ekran Cytadeli przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.inferno.name": "Inferno",
+    "mod.inferno.description": "Ekran Inferna przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.necropolis.name": "Nekropolia",
+    "mod.necropolis.description": "Ekran Nekropolii przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.rampart.name": "Bastion",
+    "mod.rampart.description": "Ekran Bastionu przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.stronghold.name": "Twierdza",
+    "mod.stronghold.description": "Ekran Twierdzy przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)",
+    "mod.tower.name": "Forteca",
+    "mod.tower.description": "Ekran Fortecy przeniesiony z moda Legends of the Red Dragon (Legendy Czerwonego Smoka)"
+}
